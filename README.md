@@ -1,100 +1,83 @@
-<div align="center">
-
 # Carlos Orlando Meneses Corona
 
-### 📊 Data Analyst · BI Analyst — Ingeniero en TIC
+**Data Analyst Jr · SQL · Python · Power BI**
 
-Convierto datos en decisiones de negocio con **SQL · Python · Power BI · Estadística**
+Analista de datos con formación en Ingeniería en TIC (UPTx). Trabajo con datos
+reales de principio a fin: limpieza y modelado en SQL y Python, pruebas de
+hipótesis, dashboards interactivos y pipelines de datos completos. Busco
+oportunidades como Data Analyst, Data Engineer Jr o BI Analyst.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-orlando-meneses-corona-da/)
-[![Portafolio](https://img.shields.io/badge/Portafolio-0969da?style=for-the-badge&logo=githubpages&logoColor=white)](https://orlandocorona.github.io)
-[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:menesescoronacarlosorlando@gmail.com)
-
-</div>
-
----
-
-## 🛠️ Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=postgresql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+📍 Tlaxcala, México &nbsp;·&nbsp; 📧 menesescoronacarlosorlando@gmail.com &nbsp;·&nbsp;
+🌐 [Portafolio](https://orlandocorona.github.io) &nbsp;·&nbsp;
+💼 [LinkedIn](https://www.linkedin.com/in/carlos-orlando-meneses-corona-da)
 
 ---
 
-## 🚀 Proyectos destacados
+## Stack técnico
 
-### 1. 🪙 [Binance Crypto ETL Pipeline](https://github.com/OrlandoCorona/binance-crypto-pipeline)
-Pipeline **ETL de extremo a extremo**: Binance OHLCV → **PostgreSQL** → **Power BI**. Backtesting *walk-forward* y validación **Monte Carlo** (N=5,000): la estrategia principal quedó en el **percentil 99.3 %** frente a operaciones al azar.
+**Análisis de datos**
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=python&logoColor=white)
 
-`Python` · `PostgreSQL` · `Power BI` · `ETL` · `Backtesting`
+**Datos y backend**
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP_8.2-777BB4?logo=php&logoColor=white)
 
-<a href="https://github.com/OrlandoCorona/binance-crypto-pipeline">
-  <img src="https://raw.githubusercontent.com/OrlandoCorona/binance-crypto-pipeline/main/dashboard/screenshots/executive_summary.png" width="640" alt="Dashboard ejecutivo de Power BI del pipeline de Binance">
-</a>
-
----
-
-### 2. 🚕 [Chicago Rideshare SQL Analysis](https://github.com/OrlandoCorona/chicago-rideshare-sql-analysis)
-Consultas **SQL** + Python para analizar la demanda por compañía y barrio, y una **prueba de hipótesis (t de Welch)** que confirma el efecto del clima en la duración de los viajes (p < 0.05).
-
-`SQL` · `Python` · `pandas` · `SciPy`
-
-<a href="https://github.com/OrlandoCorona/chicago-rideshare-sql-analysis">
-  <img src="https://raw.githubusercontent.com/OrlandoCorona/OrlandoCorona.github.io/main/images/JupyterGraf2S8.png" width="640" alt="Análisis de viajes en taxi de Chicago">
-</a>
+**Herramientas y despliegue**
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
 ---
 
-### 3. 📞 [Análisis de ingresos de telecomunicaciones](https://github.com/OrlandoCorona/megaline-telecom-revenue-analysis)
-Comparativa de los planes prepago Surf y Ultimate (500 usuarios). Ingeniería de ingresos + prueba t de Welch: **Ultimate genera ~20 % más de ingreso** con una varianza **25× menor** (t = −8.23, p ≈ 0).
+## Proyectos destacados
 
-`Python` · `pandas` · `SciPy`
+| Proyecto | Stack | Resultado |
+|---|---|---|
+| [**Binance Crypto Pipeline**](https://github.com/OrlandoCorona/binance-crypto-pipeline) | Python · PostgreSQL · Power BI | Pipeline ETL completo con backtesting y validación Monte Carlo (N=5,000); la mejor estrategia alcanza el percentil 99.3% frente a operar al azar. |
+| [**Chicago Rideshare — Análisis SQL**](https://github.com/OrlandoCorona/chicago-rideshare-sql-analysis) | SQL · Python · SciPy | Consultas SQL + prueba t de Welch: el clima afecta de forma significativa (p < 0.05) la duración de los viajes en sábado. |
+| [**Megaline — Ingresos Telecom**](https://github.com/OrlandoCorona/megaline-telecom-revenue-analysis) | Python · Pandas · SciPy | Ingeniería de ingresos y prueba t: el plan Ultimate genera ~20% más ingreso por usuario con 25× menos varianza. |
+| [**Vehicle Ads Dashboard**](https://github.com/OrlandoCorona/vehicle-ads-dashboard) | Streamlit · Plotly · Pandas | Dashboard interactivo desplegado en Render para explorar precio, kilometraje y año de anuncios de autos. |
+| [**Instacart Orders EDA**](https://github.com/OrlandoCorona/instacart-orders-eda) | Python · Pandas | Limpieza y análisis de patrones de compra sobre datos reales de pedidos (horario, día, reorden de productos). |
+| [**El Arca — Sistema de Restaurante**](https://github.com/OrlandoCorona/el-arca-restaurant-system) | PHP 8.2 · PostgreSQL · Docker | Sistema full-stack en producción (315 commits): autenticación, reservas, catálogo y contacto, con MVC propio. |
 
----
-
-### 4. 🚗 [Dashboard de anuncios de autos](https://github.com/OrlandoCorona/vehicle-ads-dashboard) · [🌐 En vivo](https://proyecto-sprint7-zsy8.onrender.com/)
-Aplicación web interactiva en **Streamlit + Plotly** para explorar precio, kilometraje y año de vehículos. Desplegada en Render.
-
-`Python` · `Streamlit` · `Plotly` · `pandas`
-
-<a href="https://proyecto-sprint7-zsy8.onrender.com/">
-  <img src="https://raw.githubusercontent.com/OrlandoCorona/OrlandoCorona.github.io/main/images/web_scraping_app.png" width="640" alt="Dashboard interactivo de anuncios de autos">
-</a>
+Más proyectos: [videogame-sales-analysis](https://github.com/OrlandoCorona/videogame-sales-analysis) (EDA de mercado, ~16,000 títulos) y [coin-flip-simulator](https://github.com/OrlandoCorona/coin-flip-simulator) (simulación estadística, ejercicio secundario).
 
 ---
 
-### 5. 🎮 [Análisis del mercado de videojuegos](https://github.com/OrlandoCorona/videogame-sales-analysis)
-EDA de ~16 000 títulos (1980-2016): plataformas y géneros por región, y correlación reseñas-ventas (críticos r≈0.40, usuarios r≈0.10).
+## Actualmente construyendo
 
-`Python` · `pandas` · `SciPy`
+- Agregando pruebas automatizadas (pytest + GitHub Actions) a `binance-crypto-pipeline`.
+- Documentando en `sql/` las consultas originales del análisis de Chicago.
 
----
+## Portfolio Highlights
 
-### 6. 🍽️ [El Arca — Sistema web para restaurantes](https://github.com/OrlandoCorona/el-arca-restaurant-system) · [🌐 En vivo](https://arca-jv4f.onrender.com)
-Aplicación **MVC full-stack** con autenticación, reservas, catálogo de menú y gestión de contactos. Contenerizada con **Docker** y desplegada en Render.
-
-`PHP 8.2` · `PostgreSQL` · `Docker`
-
-<a href="https://arca-jv4f.onrender.com">
-  <img src="https://raw.githubusercontent.com/OrlandoCorona/OrlandoCorona.github.io/main/images/Index_Arca_Web.png" width="640" alt="Sistema web El Arca">
-</a>
+- 8 proyectos de datos publicados y documentados de inicio a fin.
+- 1 pipeline ETL con validación estadística Monte Carlo (N=5,000 permutaciones).
+- 2 aplicaciones desplegadas en producción (Render).
+- 3+ pruebas de hipótesis (t de Welch) aplicadas a preguntas de negocio reales.
+- 1 sistema full-stack con más de 300 commits.
 
 ---
 
-<div align="center">
+## GitHub stats
 
-📫 **menesescoronacarlosorlando@gmail.com** · 📍 Tlaxcala, México
+<!-- Verifica que estas imágenes carguen antes de dejarlas: el servicio de
+     github-readme-stats a veces tarda en responder. Si no renderiza, quítalas
+     en lugar de dejar un ícono roto. -->
 
-*Ingeniero en TIC (UPTx) · CCNA · Técnico en Electricidad*
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=OrlandoCorona&show_icons=true&theme=default&hide_border=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OrlandoCorona&layout=compact&theme=default&hide_border=true)
 
-</div>
+---
+
+## Contacto
+
+💼 [LinkedIn](https://www.linkedin.com/in/carlos-orlando-meneses-corona-da) &nbsp;·&nbsp;
+🌐 [Portafolio](https://orlandocorona.github.io) &nbsp;·&nbsp;
+📧 [menesescoronacarlosorlando@gmail.com](mailto:menesescoronacarlosorlando@gmail.com)
