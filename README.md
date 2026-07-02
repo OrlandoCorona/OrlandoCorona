@@ -74,7 +74,7 @@ Más proyectos: [videogame-sales-analysis](https://github.com/OrlandoCorona/vide
 
 ## 📊 Estadísticas de GitHub
 
-![Lenguajes más usados](https://github-stats-extended.vercel.app/api/top-langs?username=OrlandoCorona&layout=compact&langs_count=5&theme=default_repocard)
+![Lenguajes más usados](https://github-stats-extended.vercel.app/api/top-langs?username=OrlandoCorona&langs_count=5&theme=codeSTACKr)
 
 ![Repositorio](https://github-stats-extended.vercel.app/api/pin?username=OrlandoCorona&repo=OrlandoCorona/binance-crypto-pipeline&show_owner=true&description_lines_count=3)
 ![Repositorio_2](https://github-stats-extended.vercel.app/api/pin?username=OrlandoCorona&repo=OrlandoCorona/megaline-telecom-revenue-analysis&show_owner=true&description_lines_count=3)
