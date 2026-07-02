@@ -74,5 +74,4 @@ Más proyectos: [videogame-sales-analysis](https://github.com/OrlandoCorona/vide
 
 ## 📊 Estadísticas de GitHub
 
-![Lenguajes más usados](https://github-stats-extended.vercel.app/api/top-langs?username=OrlandoCorona&layout_icons=true=compact&langs_count=5&theme=catppuccin_latte)
-
+![Lenguajes más usados](https://TU-INSTANCIA.vercel.app/api/top-langs/?username=OrlandoCorona&layout=compact&langs_count=8&hide=jupyter%20notebook&theme=default)
