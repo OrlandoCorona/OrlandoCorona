@@ -2,7 +2,7 @@
 
 **Analista de Datos / BI Jr | SQL · Python · Tableau · Power BI | Análisis de negocio y reportes**
 
-Soy Orlando, ingeniero en Tecnologías de la Información por la Universidad Politécnica de Tlaxcala. Busco una oportunidad junior en análisis de datos, análisis de negocio o reportes.
+Soy Orlando, ingeniero en Tecnologías de la Información y la Comunicación por la Universidad Politécnica de Tlaxcala. Busco una oportunidad junior en análisis de datos, análisis de negocio o reportes.
 
 En El Arca trabajé en operaciones, soporte técnico, el sistema de ventas, inventarios y sistemas internos.
 
@@ -45,6 +45,10 @@ Inglés intermedio (A2–B1). Ubicación: Tlaxcala, México.
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
 ---
+
+**Otros conocimientos:** Visual FoxPro; pruebas estadísticas y pruebas A/B.
+
+**Conocimientos básicos adicionales:** Java y Spring Boot.
 
 ## Proyectos destacados
 
@@ -96,10 +100,11 @@ El Arca Restaurante Bar · 2022 – junio de 2026.
 
 ## Estudios
 
-- Ingeniería en Tecnologías de la Información, Universidad Politécnica de Tlaxcala. Septiembre de 2021 – febrero de 2025. Título expedido en febrero de 2026.
-- Curso Intensivo de Análisis de Datos, TripleTen. Agosto de 2025 – marzo de 2026. Finalizado y certificado.
-- Técnico en Electricidad.
-- Cursos de formación CCNA, Cisco Networking Academy.
+- Ingeniería en Tecnologías de la Información y la Comunicación, Universidad Politécnica de Tlaxcala. Septiembre de 2021 – febrero de 2025. Título expedido en febrero de 2026.
+- Curso Intensivo de Análisis de Datos, TripleTen. Agosto de 2025 – marzo de 2026. Finalizado y certificado. Folio: 202601DAES0003848.
+- Técnico en Electricidad, CECyTE Tlaxcala Plantel 08.
+- Cisco Networking Academy (cursos): CCNA: Introducción a las redes (julio de 2024); CCNA: Switching, Routing, and Wireless Essentials (diciembre de 2024); CCNA: Redes Empresariales, Seguridad y Automatización (febrero de 2025).
+- NDG Linux Unhatched, Cisco Networking Academy. Febrero de 2024.
 
 ## Contacto
 
