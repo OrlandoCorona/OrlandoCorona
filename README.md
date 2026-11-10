@@ -7,10 +7,10 @@ Soy ingeniero en Tecnologías de la Información y la Comunicación por la Unive
 En El Arca trabajé en operaciones, soporte técnico, el sistema de ventas, inventarios y sistemas internos.
 
 Completé el Curso Intensivo de Análisis de Datos de TripleTen. Mis proyectos incluyen:
-• CallMeMaybe: análisis de llamadas, pruebas estadísticas con Python y SciPy, y dos dashboards en Tableau Public.
-• Pipeline de datos de Binance: ETL y backtesting con Python, PostgreSQL y Power BI.
-• Dashboard de anuncios de vehículos: aplicación interactiva con Streamlit y Plotly.
-• Dashboards en Tableau Public para explorar y presentar resultados.
+- CallMeMaybe: análisis de llamadas, pruebas estadísticas con Python y SciPy, y dos dashboards en Tableau Public.
+- Pipeline de datos de Binance: ETL y backtesting con Python, PostgreSQL y Power BI.
+- Dashboard de anuncios de vehículos: aplicación interactiva con Streamlit y Plotly.
+- Dashboards en Tableau Public para explorar y presentar resultados.
 
 También desarrollé el sistema web de El Arca. Se utilizó en la operación del negocio. Dejé mi posición en El Arca en junio de 2026. Conservo además proyectos de análisis de movilidad con SQL y estadística, y comparación de planes de telefonía.
 
@@ -18,31 +18,25 @@ Trabajo con SQL, Python, Pandas, SciPy, Tableau, Power BI, Dash, Streamlit, Plot
 
 Inglés intermedio (A2–B1). Ubicación: Tlaxcala, México.
 
- Tlaxcala, México &nbsp;·&nbsp;  menesescoronacarlosorlando@gmail.com &nbsp;·&nbsp;
- [Portafolio](https://orlando-corona.lovable.app) &nbsp;·&nbsp;
- [LinkedIn](https://www.linkedin.com/in/carlos-orlando-meneses-corona-da)
+Tlaxcala, México &nbsp;·&nbsp;  menesescoronacarlosorlando@gmail.com &nbsp;·&nbsp;
+[Portafolio](https://orlando-corona.lovable.app) &nbsp;·&nbsp;
+[LinkedIn](https://www.linkedin.com/in/carlos-orlando-meneses-corona-da)
 
 ---
 
 ## Stack técnico
 
 **Análisis de datos**
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white)
-Matplotlib
+
+Python · Pandas · NumPy · SciPy · Matplotlib
 
 **Datos y backend**
-SQL
-PostgreSQL
-PHP
+
+SQL · PostgreSQL · PHP
 
 **Herramientas y despliegue**
-Power BI
-Streamlit
-Docker
-Git
+
+Power BI · Streamlit · Docker · Git
 
 ---
 
@@ -57,6 +51,8 @@ Git
 Análisis de 656 vacantes de GetOnBoard contra un catálogo de 28 certificaciones; pipeline con SQL Server y Python, dashboard de cinco páginas en Power BI con simulador de ROI. El 5.8% de la muestra de 656 vacantes de GetOnBoard menciona al menos una certificación.
 
 [Repositorio](https://github.com/OrlandoCorona/cert-roi-latam)
+
+[App en Streamlit](https://cert-roi-latam.streamlit.app/)
 
 ### CallMeMaybe — Análisis de operadores | Proyecto final
 
@@ -116,12 +112,12 @@ Soporte Técnico y Operaciones · El Arca Restaurante Bar · 2022 – junio de 2
 
 Teléfono: +52 220 776 3876
 
- [LinkedIn](https://www.linkedin.com/in/carlos-orlando-meneses-corona-da) &nbsp;·&nbsp;
- [Portafolio](https://orlando-corona.lovable.app) &nbsp;·&nbsp;
+[LinkedIn](https://www.linkedin.com/in/carlos-orlando-meneses-corona-da) &nbsp;·&nbsp;
+[Portafolio](https://orlando-corona.lovable.app) &nbsp;·&nbsp;
  [menesescoronacarlosorlando@gmail.com](mailto:menesescoronacarlosorlando@gmail.com)
 
 
-##  Estadísticas de GitHub
+## Estadísticas de GitHub
 
 ![Lenguajes más usados](https://github-stats-extended.vercel.app/api/top-langs?username=OrlandoCorona&langs_count=5&theme=codeSTACKr)
 
