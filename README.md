@@ -1,8 +1,8 @@
 # Carlos Orlando Meneses Corona
 
-**Analista de Datos / BI Jr | SQL · Python · Tableau · Power BI | Análisis de negocio y reportes**
+**Data Analyst JR | BI Analyst JR | Reporting Analyst JR · SQL, Python, Power BI y Tableau**
 
-Soy Orlando, ingeniero en Tecnologías de la Información y la Comunicación por la Universidad Politécnica de Tlaxcala. Busco una oportunidad junior en análisis de datos, análisis de negocio o reportes.
+Soy ingeniero en Tecnologías de la Información y la Comunicación por la Universidad Politécnica de Tlaxcala. Busco una oportunidad junior en análisis de datos, análisis de negocio o reportes.
 
 En El Arca trabajé en operaciones, soporte técnico, el sistema de ventas, inventarios y sistemas internos.
 
@@ -14,7 +14,7 @@ Completé el Curso Intensivo de Análisis de Datos de TripleTen. Mis proyectos i
 
 También desarrollé el sistema web de El Arca. Se utilizó en la operación del negocio. Dejé mi posición en El Arca en junio de 2026. Conservo además proyectos de análisis de movilidad con SQL y estadística, y comparación de planes de telefonía.
 
-Trabajo con SQL, Python, Pandas, SciPy, Tableau, Power BI, Dash, Streamlit, Plotly, Matplotlib, Seaborn, Jupyter Notebook, Git, GitHub y línea de comandos. Tengo conocimientos básicos de Linux y SQL Server.
+Trabajo con SQL, Python, Pandas, SciPy, Tableau, Power BI, Dash, Streamlit, Plotly, Matplotlib, Seaborn, Jupyter Notebook, Git, GitHub y línea de comandos. Trabajo con SQL Server, PostgreSQL, Oracle, MongoDB, Linux y virtualización.
 
 Inglés intermedio (A2–B1). Ubicación: Tlaxcala, México.
 
@@ -51,6 +51,12 @@ Inglés intermedio (A2–B1). Ubicación: Tlaxcala, México.
 **Conocimientos básicos adicionales:** Java y Spring Boot.
 
 ## Proyectos destacados
+
+### Tracker de Certificaciones Tech en LATAM
+
+Análisis de 656 vacantes de GetOnBoard contra un catálogo de 28 certificaciones; pipeline con SQL Server y Python, dashboard de cinco páginas en Power BI con simulador de ROI. El 5.8% de la muestra de 656 vacantes de GetOnBoard menciona al menos una certificación.
+
+[Repositorio](https://github.com/OrlandoCorona/cert-roi-latam)
 
 ### CallMeMaybe — Análisis de operadores | Proyecto final
 
@@ -96,7 +102,7 @@ Más proyectos: [videogame-sales-analysis](https://github.com/OrlandoCorona/vide
 
 ## Experiencia
 
-El Arca Restaurante Bar · 2022 – junio de 2026.
+Soporte Técnico y Operaciones · El Arca Restaurante Bar · 2022 – junio de 2026.
 
 ## Estudios
 
@@ -119,6 +125,6 @@ Teléfono: +52 220 776 3876
 
 ![Lenguajes más usados](https://github-stats-extended.vercel.app/api/top-langs?username=OrlandoCorona&langs_count=5&theme=codeSTACKr)
 
-![Repositorio](https://github-stats-extended.vercel.app/api/pin?username=OrlandoCorona&repo=OrlandoCorona/binance-crypto-pipeline&show_owner=true&description_lines_count=3)
-![Repositorio_2](https://github-stats-extended.vercel.app/api/pin?username=OrlandoCorona&repo=OrlandoCorona/megaline-telecom-revenue-analysis&show_owner=true&description_lines_count=3)
+![Repositorio](https://github-stats-extended.vercel.app/api/pin?username=OrlandoCorona&repo=binance-crypto-pipeline&show_owner=true&description_lines_count=3)
+![Repositorio_2](https://github-stats-extended.vercel.app/api/pin?username=OrlandoCorona&repo=megaline-telecom-revenue-analysis&show_owner=true&description_lines_count=3)
 
