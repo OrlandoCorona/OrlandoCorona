@@ -18,9 +18,9 @@ Trabajo con SQL, Python, Pandas, SciPy, Tableau, Power BI, Dash, Streamlit, Plot
 
 Inglés intermedio (A2–B1). Ubicación: Tlaxcala, México.
 
-📍 Tlaxcala, México &nbsp;·&nbsp; 📧 menesescoronacarlosorlando@gmail.com &nbsp;·&nbsp;
-🌐 [Portafolio](https://orlando-corona.lovable.app) &nbsp;·&nbsp;
-💼 [LinkedIn](https://www.linkedin.com/in/carlos-orlando-meneses-corona-da)
+ Tlaxcala, México &nbsp;·&nbsp;  menesescoronacarlosorlando@gmail.com &nbsp;·&nbsp;
+ [Portafolio](https://orlando-corona.lovable.app) &nbsp;·&nbsp;
+ [LinkedIn](https://www.linkedin.com/in/carlos-orlando-meneses-corona-da)
 
 ---
 
@@ -110,12 +110,12 @@ El Arca Restaurante Bar · 2022 – junio de 2026.
 
 Teléfono: +52 220 776 3876
 
-💼 [LinkedIn](https://www.linkedin.com/in/carlos-orlando-meneses-corona-da) &nbsp;·&nbsp;
-🌐 [Portafolio](https://orlando-corona.lovable.app) &nbsp;·&nbsp;
-📧 [menesescoronacarlosorlando@gmail.com](mailto:menesescoronacarlosorlando@gmail.com)
+ [LinkedIn](https://www.linkedin.com/in/carlos-orlando-meneses-corona-da) &nbsp;·&nbsp;
+ [Portafolio](https://orlando-corona.lovable.app) &nbsp;·&nbsp;
+ [menesescoronacarlosorlando@gmail.com](mailto:menesescoronacarlosorlando@gmail.com)
 
 
-## 📊 Estadísticas de GitHub
+##  Estadísticas de GitHub
 
 ![Lenguajes más usados](https://github-stats-extended.vercel.app/api/top-langs?username=OrlandoCorona&langs_count=5&theme=codeSTACKr)
 
