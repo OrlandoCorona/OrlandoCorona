@@ -12,7 +12,7 @@ Completé el Curso Intensivo de Análisis de Datos de TripleTen. Mis proyectos i
 • Dashboard de anuncios de vehículos: aplicación interactiva con Streamlit y Plotly.
 • Dashboards en Tableau Public para explorar y presentar resultados.
 
-También desarrollé el sistema web de El Arca. Se utilizó en la operación del negocio antes de su cierre en junio de 2026. Conservo además proyectos de análisis de movilidad con SQL y estadística, y comparación de planes de telefonía.
+También desarrollé el sistema web de El Arca. Se utilizó en la operación del negocio. Dejé mi posición en El Arca en junio de 2026. Conservo además proyectos de análisis de movilidad con SQL y estadística, y comparación de planes de telefonía.
 
 Trabajo con SQL, Python, Pandas, SciPy, Tableau, Power BI, Dash, Streamlit, Plotly, Matplotlib, Seaborn, Jupyter Notebook, Git, GitHub y línea de comandos. Tengo conocimientos básicos de Linux y SQL Server.
 
@@ -73,7 +73,7 @@ Dashboards para explorar información y presentar los resultados de mis análisi
 | [**Megaline — Ingresos Telecom**](https://github.com/OrlandoCorona/megaline-telecom-revenue-analysis) | Python · Pandas · SciPy | Ingeniería de ingresos y prueba t: el plan Ultimate genera ~20% más ingreso por usuario con 25× menos varianza. |
 | [**Vehicle Ads Dashboard**](https://github.com/OrlandoCorona/vehicle-ads-dashboard) | Streamlit · Plotly · Pandas | Dashboard interactivo desplegado en Render para explorar precio, kilometraje y año de anuncios de autos. |
 | [**Instacart Orders EDA**](https://github.com/OrlandoCorona/instacart-orders-eda) | Python · Pandas | Limpieza y análisis de patrones de compra sobre datos reales de pedidos (horario, día, reorden de productos). |
-| [**El Arca — Sistema de Restaurante**](https://github.com/OrlandoCorona/el-arca-restaurant-system) | PHP 8.2 · PostgreSQL · Docker | Sistema web con autenticación, reservas, catálogo y contacto, con MVC propio. Se utilizó en la operación del negocio antes de su cierre en junio de 2026. |
+| [**El Arca — Sistema de Restaurante**](https://github.com/OrlandoCorona/el-arca-restaurant-system) | PHP 8.2 · PostgreSQL · Docker | Sistema web con autenticación, reservas, catálogo y contacto, con MVC propio. Se utilizó en la operación del negocio. Dejé mi posición en El Arca en junio de 2026. |
 
 Más proyectos: [videogame-sales-analysis](https://github.com/OrlandoCorona/videogame-sales-analysis) (EDA de mercado, ~16,000 títulos) y [coin-flip-simulator](https://github.com/OrlandoCorona/coin-flip-simulator) (simulación estadística, ejercicio secundario).
 
@@ -108,7 +108,7 @@ El Arca Restaurante Bar · 2022 – junio de 2026.
 
 ## Contacto
 
-Teléfono: 220-776-3876
+Teléfono: +52 220 776 3876
 
 💼 [LinkedIn](https://www.linkedin.com/in/carlos-orlando-meneses-corona-da) &nbsp;·&nbsp;
 🌐 [Portafolio](https://orlando-corona.lovable.app) &nbsp;·&nbsp;
