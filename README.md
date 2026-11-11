@@ -1,4 +1,6 @@
-# Carlos Orlando Meneses Corona
+![Carlos Orlando Meneses Corona — análisis de datos y visualización](assets/banner-perfil.svg)
+
+# Hola, soy Carlos Orlando 👋
 
 **Data Analyst JR | BI Analyst JR | Reporting Analyst JR · SQL, Python, Power BI y Tableau**
 
@@ -18,9 +20,12 @@ Trabajo con SQL, Python, Pandas, SciPy, Tableau, Power BI, Dash, Streamlit, Plot
 
 Inglés intermedio (A2–B1). Ubicación: Tlaxcala, México.
 
-Tlaxcala, México &nbsp;·&nbsp;  menesescoronacarlosorlando@gmail.com &nbsp;·&nbsp;
-[Portafolio](https://orlando-corona.lovable.app) &nbsp;·&nbsp;
-[LinkedIn](https://www.linkedin.com/in/carlos-orlando-meneses-corona-da)
+📍 Tlaxcala, México · ✉️ [Correo](mailto:menesescoronacarlosorlando@gmail.com)
+
+[![Portafolio](https://img.shields.io/badge/Portafolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://orlandocorona.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-orlando-meneses-corona-da/)
+[![Tableau Public](https://img.shields.io/badge/Tableau_Public-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/carlos.orlando.meneses.corona)
+[![Correo](https://img.shields.io/badge/Contacto-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:menesescoronacarlosorlando@gmail.com)
 
 ---
 
@@ -113,7 +118,7 @@ Soporte Técnico y Operaciones · El Arca Restaurante Bar · 2022 – junio de 2
 Teléfono: +52 220 776 3876
 
 [LinkedIn](https://www.linkedin.com/in/carlos-orlando-meneses-corona-da) &nbsp;·&nbsp;
-[Portafolio](https://orlando-corona.lovable.app) &nbsp;·&nbsp;
+[Portafolio](https://orlandocorona.github.io/) &nbsp;·&nbsp;
  [menesescoronacarlosorlando@gmail.com](mailto:menesescoronacarlosorlando@gmail.com)
 
 
