@@ -2,13 +2,13 @@
 
 # Hola, soy Carlos Orlando 👋
 
-**Data Analyst JR | BI Analyst JR | Reporting Analyst JR · SQL, Python, Power BI y Tableau**
+**Data Analyst JR | BI Analyst JR | Reporting Analyst JR**
 
 Soy ingeniero en Tecnologías de la Información y la Comunicación por la Universidad Politécnica de Tlaxcala. Busco una oportunidad junior en análisis de datos, análisis de negocio o reportes.
 
 En El Arca trabajé en operaciones, soporte técnico, el sistema de ventas, inventarios y sistemas internos.
 
-Completé el Curso Intensivo de Análisis de Datos de TripleTen. Mis proyectos incluyen:
+Completé el Curso Intensivo de Análisis de Datos — TripleTen. Mis proyectos incluyen:
 - CallMeMaybe: análisis de llamadas, pruebas estadísticas con Python y SciPy, y dos dashboards en Tableau Public.
 - Pipeline de datos de Binance: ETL y backtesting con Python, PostgreSQL y Power BI.
 - Dashboard de anuncios de vehículos: aplicación interactiva con Streamlit y Plotly.
@@ -18,11 +18,11 @@ También desarrollé el sistema web de El Arca. Se utilizó en la operación del
 
 Trabajo con SQL, Python, Pandas, SciPy, Tableau, Power BI, Dash, Streamlit, Plotly, Matplotlib, Seaborn, Jupyter Notebook, Git, GitHub y línea de comandos. Trabajo con SQL Server, PostgreSQL, Oracle, MongoDB, Linux y virtualización.
 
-Inglés intermedio (A2–B1). Ubicación: Tlaxcala, México.
+Inglés: Intermedio (A2-B1). Ubicación: Tlaxcala, México.
 
 📍 Tlaxcala, México · ✉️ [Correo](mailto:menesescoronacarlosorlando@gmail.com)
 
-[![Portafolio](https://img.shields.io/badge/Portafolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://orlandocorona.github.io/)
+[![Portafolio](https://img.shields.io/badge/Portafolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://orlando-corona.lovable.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-orlando-meneses-corona-da/)
 [![Tableau Public](https://img.shields.io/badge/Tableau_Public-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/carlos.orlando.meneses.corona)
 [![Correo](https://img.shields.io/badge/Contacto-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:menesescoronacarlosorlando@gmail.com)
@@ -61,7 +61,7 @@ Análisis de 656 vacantes de GetOnBoard contra un catálogo de 28 certificacione
 
 ### CallMeMaybe — Análisis de operadores | Proyecto final
 
-Proyecto final del Curso Intensivo de Análisis de Datos de TripleTen: pruebas estadísticas con Python y SciPy, y dos dashboards en Tableau Public.
+Proyecto final del Curso Intensivo de Análisis de Datos — TripleTen. Analicé a 1,092 operadores y apliqué la prueba de Mann-Whitney con Python y SciPy. Los resultados se presentan en dos dashboards en Tableau Public.
 
 - [Repositorio](https://github.com/OrlandoCorona/callmemaybe-operators-analysis)
 - [Dashboard 1](https://public.tableau.com/app/profile/carlos.orlando.meneses.corona/viz/CallMeMaybe-Operadoresineficaces/Dashboard1)
@@ -69,13 +69,13 @@ Proyecto final del Curso Intensivo de Análisis de Datos de TripleTen: pruebas e
 
 ### Dashboards en Tableau Public
 
-Dashboards para explorar información y presentar los resultados de mis análisis. Incluyen los dos dashboards de CallMeMaybe, mi proyecto final del Curso Intensivo de Análisis de Datos.
+Dashboards para explorar información y presentar los resultados de mis análisis. Incluyen los dos dashboards de CallMeMaybe, mi proyecto final del Curso Intensivo de Análisis de Datos — TripleTen.
 
 [Tableau Public](https://public.tableau.com/app/profile/carlos.orlando.meneses.corona)
 
 | Proyecto | Stack | Resultado |
 |---|---|---|
-| [**Binance Crypto Pipeline**](https://github.com/OrlandoCorona/binance-crypto-pipeline) | Python · PostgreSQL · Power BI | Pipeline ETL completo con backtesting y validación Monte Carlo (N=5,000); la mejor estrategia alcanza el percentil 99.3% frente a operar al azar. |
+| [**Binance Crypto Pipeline**](https://github.com/OrlandoCorona/binance-crypto-pipeline) | Python · PostgreSQL · Power BI | Pipeline ETL con 43,817 registros procesados. En el backtesting con validación Monte Carlo (N=5,000), la mejor estrategia alcanza el percentil 99.3% frente a operar al azar. |
 | [**Chicago Rideshare — Análisis SQL**](https://github.com/OrlandoCorona/chicago-rideshare-sql-analysis) | SQL · Python · SciPy | Consultas SQL + prueba t de Welch: el clima afecta de forma significativa (p < 0.05) la duración de los viajes en sábado. |
 | [**Megaline — Ingresos Telecom**](https://github.com/OrlandoCorona/megaline-telecom-revenue-analysis) | Python · Pandas · SciPy | Ingeniería de ingresos y prueba t: el plan Ultimate genera ~20% más ingreso por usuario con 25× menos varianza. |
 | [**Vehicle Ads Dashboard**](https://github.com/OrlandoCorona/vehicle-ads-dashboard) | Streamlit · Plotly · Pandas | Dashboard interactivo desplegado en Render para explorar precio, kilometraje y año de anuncios de autos. |
@@ -103,13 +103,18 @@ Más proyectos: [videogame-sales-analysis](https://github.com/OrlandoCorona/vide
 
 ## Experiencia
 
-Soporte Técnico y Operaciones · El Arca Restaurante Bar · 2022 – junio de 2026.
+**El Arca Restaurante Bar**
+
+- **Soporte Técnico y Operaciones (ene 2022 – abr 2024).** Monté 2 servidores y realicé 25 intervenciones sobre 3 equipos.
+- **Gerente de Operaciones (abr 2024 – jun 2026).** Coordiné hasta 20 personas, gestioné 25 proveedores y analicé más de 7 años de datos recuperados para identificar fugas. El análisis contribuyó a una reducción estimada de gastos de ~15%.
+
+Administré y mantuve el sistema POS durante 4 años en El Arca.
 
 ## Estudios
 
 - Ingeniería en Tecnologías de la Información y la Comunicación, Universidad Politécnica de Tlaxcala. Septiembre de 2021 – febrero de 2025. Título expedido en febrero de 2026.
-- Curso Intensivo de Análisis de Datos, TripleTen. Agosto de 2025 – marzo de 2026. Finalizado y certificado. Folio: 202601DAES0003848.
-- Técnico en Electricidad, CECyTE Tlaxcala Plantel 08.
+- Curso Intensivo de Análisis de Datos — TripleTen. Agosto de 2025 – marzo de 2026. Finalizado y certificado. Folio: 202601DAES0003848.
+- Técnico en Electricidad — CECyTE Tlaxcala, Plantel 08. Titulado. Cédula profesional 10418611 (SEP/DGP), 24 de mayo de 2017. Vigente.
 - Cisco Networking Academy (cursos): CCNA: Introducción a las redes (julio de 2024); CCNA: Switching, Routing, and Wireless Essentials (diciembre de 2024); CCNA: Redes Empresariales, Seguridad y Automatización (febrero de 2025).
 - NDG Linux Unhatched, Cisco Networking Academy. Febrero de 2024.
 
@@ -118,7 +123,7 @@ Soporte Técnico y Operaciones · El Arca Restaurante Bar · 2022 – junio de 2
 Teléfono: +52 220 776 3876
 
 [LinkedIn](https://www.linkedin.com/in/carlos-orlando-meneses-corona-da) &nbsp;·&nbsp;
-[Portafolio](https://orlandocorona.github.io/) &nbsp;·&nbsp;
+[Portafolio](https://orlando-corona.lovable.app/) &nbsp;·&nbsp;
  [menesescoronacarlosorlando@gmail.com](mailto:menesescoronacarlosorlando@gmail.com)
 
 
